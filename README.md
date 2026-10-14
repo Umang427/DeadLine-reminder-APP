@@ -12,7 +12,7 @@ The **Deadline Reminder App** is a lightweight, professional desktop application
 
 It features a modern GUI with interactive analog clocks, visual calendars, and dynamic analytical dashboards to track your punctuality (On-Time, Late, or Missed).
 
-![Dashboard Screenshot Placeholder](https://via.placeholder.com/800x450.png?text=Insert+Main+Dashboard+Screenshot+Here)
+
 
 ## ✨ Key Features
 *   **Dual-Layered Alerts:** Guarantees you never miss a deadline. Uses `pygame` for a loud local audio alarm and `smtplib` to route automated email alerts containing task details to your phone.
